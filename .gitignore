@@ -1,0 +1,59 @@
+# Dependencies
+/node_modules
+
+# Environment Variables
+.env
+
+# Build files
+/dist
+/build
+/.vercel
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Personal Documents
+*.docx
+*.pdf
+*.xlsx
+*.wps
+*.rdp
+*.exe
+*.tmp
+
+# Unrelated Projects
+4life-master/
+Dice challenge/
+HowStuff-Learn/
+React-CRUD-App/
+Tesla ui clone/
+TinDog-Start-master/
+__MACOSX/
+angela html/
+cooking/
+crud-app/
+edge-ledger/
+hospital/
+hotel website/
+js/
+magic-memory/
+portfolio_website/
+python practise/
+tailwind portfolio/
+tailwindcss/
+todo-list/
+tuts/
+weather app/
+weatherapp/
+
+# Custom Office Templates
+Custom Office Templates/
+~$*
