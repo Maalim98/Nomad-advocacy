@@ -70,7 +70,7 @@ function GBVFacts() {
           </p>
 
           <p className="my-6 text-gray-700">
-            GBV during pregnancy in Kenya is alarmingly high, estimated at 13.5%. Organizations like the Gender Violence Recovery Centre (GVRC) have been instrumental in supporting over 44,000 survivors since its inception, highlighting the urgent need for intervention and support.
+            GBV during pregnancy in Kenya is alarmingly high, estimated at 13.5%. Organizations like the Gender Violence Recovery Centre (NomadAdvocacy) have been instrumental in supporting over 44,000 survivors since its inception, highlighting the urgent need for intervention and support.
           </p>
         </div>
 
@@ -90,8 +90,8 @@ function GBVFacts() {
             <li>One in three Kenyan girls and one in five boys face sexual violence before the age of 18 (Kenya VAC, 2010).</li>
             <li>Domestic violence impacts both genders, with 38% of married women and 9% of married men reporting physical violence from their partners (KDHS, 2014).</li>
             <li>Pregnant women in Kenya face GBV at a rate of 13.5% (KDHS, 07/08).</li>
-            <li>Men and boys also experience GBV, with 5% of cases involving boys and 3% involving men at GVRC.</li>
-            <li>Organizations like GVRC in Kenya have supported over 44,000 survivors since 2001.</li>
+            <li>Men and boys also experience GBV, with 5% of cases involving boys and 3% involving men at NomadAdvocacy.</li>
+            <li>Organizations like NomadAdvocacy in Kenya have supported over 44,000 survivors since 2001.</li>
           </ul>
         </div>
 

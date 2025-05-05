@@ -17,13 +17,13 @@ const ImpactStoriesSection = () => {
             story: `I lived with my daughter and I noticed that she was not okay. She used to sit alone and think 
             a lot. At some point she wanted to commit suicide. I interrogated her to find out what was wrong and she 
             told me what the pastor had done to her. I took her to Karen hospital where we found out she was pregnant. 
-            We were then referred to GVRC. Getting to learn what the pastor had done was so painful to me.`,
+            We were then referred to NomadAdvocacy. Getting to learn what the pastor had done was so painful to me.`,
             image: woman1,
         },
         {
             name: "Amina Hassan Mohamed",
             role: "COMMUNITY ADVOCATE",
-            story: `As a community leader in Eastleigh, I've seen many women suffer in silence. When I discovered GVRC, 
+            story: `As a community leader in Eastleigh, I've seen many women suffer in silence. When I discovered NomadAdvocacy, 
             it became a beacon of hope. We've helped over 50 women from our community access counseling and medical care. 
             The cultural sensitivity and respect shown by the staff has made a huge difference in breaking down barriers.`,
             image: woman4,
@@ -31,7 +31,7 @@ const ImpactStoriesSection = () => {
         {
             name: "Fatuma Abdi Nur",
             role: "SURVIVOR & MENTOR",
-            story: `After my experience, I felt lost and ashamed. GVRC not only helped me heal but also empowered me 
+            story: `After my experience, I felt lost and ashamed. NomadAdvocacy not only helped me heal but also empowered me 
             to become a voice for others. Today, I lead support groups for young Somali women, showing them that 
             seeking help is not a sign of weakness but of strength.`,
             image: xalimo, // Replaced woman3.jpg with xalimo.jpg
@@ -40,7 +40,7 @@ const ImpactStoriesSection = () => {
             name: "Zahra Ibrahim Ahmed",
             role: "YOUTH COUNSELOR",
             story: `Working with teenage survivors has shown me how crucial early intervention is. One young girl's 
-            story particularly moved me - she went from barely speaking to becoming a peer counselor herself. GVRC's 
+            story particularly moved me - she went from barely speaking to becoming a peer counselor herself. NomadAdvocacy's 
             approach to healing considers both emotional and cultural aspects.`,
             image: dimple,
         },
